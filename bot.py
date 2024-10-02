@@ -94,7 +94,7 @@ def to_monospace(text):
 def main() -> None:
     """Start the bot."""
     # Your bot token
-    token = '6998049808:AAEmBkF9OzflgpuejdrL_qrChQqVIjQ8qeI'
+    token = ' your token place '
 
     # Create the Updater and pass it your bot's token.
     updater = Updater(token, use_context=True)
