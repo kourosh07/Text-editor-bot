@@ -13,3 +13,5 @@ Elevate your text with **TextEditor Bot**! 🎨✨
 1. Enter your text.
 2. Select one of the stylish fonts.
 3. Instantly receive your formatted text.
+
+### Best Regards :heart:
